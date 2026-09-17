@@ -1,0 +1,14 @@
+interface:
+  display_name: 巨物文明美学导演
+  short_description: 从美学提炼、文明设计到巨物组图、MJ提示词与质检迭代的完整流程
+  default_prompt: 使用 $monumental-civilization-aesthetics，保留极小人物与巨物尺度差，开发一套新文明美学并交付十条完整
+    MJ 提示词。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
